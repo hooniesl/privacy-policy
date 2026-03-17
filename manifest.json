@@ -1,0 +1,10 @@
+{
+  "name": "소근소근 - 개인정보처리방침",
+  "short_name": "소근소근",
+  "start_url": "./privacy-policy.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#333333",
+  "lang": "ko",
+  "icons": []
+}
